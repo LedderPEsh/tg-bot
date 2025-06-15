@@ -1,0 +1,1 @@
+worker: python tg_reply_bot123.py
